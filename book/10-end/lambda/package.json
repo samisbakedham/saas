@@ -6,7 +6,7 @@
     "lint": "eslint . --ext .ts,.tsx"
   },
   "dependencies": {
-    "aws-sdk": "^2.796.0",
+    "aws-sdk": "^2.1080.0",
     "bcrypt": "^5.0.0",
     "connect-mongo": "^3.2.0",
     "cors": "^2.8.5",
