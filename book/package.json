@@ -48,7 +48,7 @@
   "dependencies": {
     "he": "^1.2.0",
     "keycode": "^2.2.0",
-    "marked": "^1.2.7",
+    "marked": "^1.2.9",
     "moment": "^2.29.1",
     "react-mentions": "^4.0.0",
     "socket.io-client": "^2.3.0"
