@@ -47,7 +47,7 @@
   },
   "dependencies": {
     "he": "^1.2.0",
-    "keycode": "^2.2.0",
+    "keycode": "^2.2.1",
     "marked": "^1.2.7",
     "moment": "^2.29.1",
     "react-mentions": "^4.0.0",
