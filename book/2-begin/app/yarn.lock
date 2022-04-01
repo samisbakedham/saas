@@ -1241,6 +1241,11 @@
   dependencies:
     mkdirp "^1.0.4"
 
+"@snyk/protect@^1.893.0":
+  version "1.893.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.893.0.tgz#631f7fe4f4bdfea96012f6abb46e8c7bdd097440"
+  integrity sha512-QHia0qAw3a+jGsAQzE87wVNclVtVy0kQAneloX1y1Ay/7Ks2wMAl1doNfr+MUrloxegoKJwiQU4msuKD/YwQjw==
+
 "@types/json-schema@^7.0.3":
   version "7.0.3"
   resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.3.tgz#bdfd69d61e464dcc81b25159c270d75a73c1a636"
